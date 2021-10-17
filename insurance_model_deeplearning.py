@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # reading the csv file 
-insurance = pd.read_csv("insurance.csv")
+insurance = pd.read_csv("https://github.com/arunaccchalam/insurancem_tensorflow_deeplearning/blob/main/insurance.csv")
 print(insurance.head())
 print(len(insurance))
 
